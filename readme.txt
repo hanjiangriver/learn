@@ -5,4 +5,4 @@ i want to see how to change it
 
 creating a new dev branch
 
-you & me
+you and me
